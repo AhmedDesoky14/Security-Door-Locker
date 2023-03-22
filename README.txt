@@ -2,7 +2,7 @@ Author: Ahmed Moustafa Desoky
 /*=============================================================================================================*/
 This is Security Door Locker System Program based on layered architecture model
 consisted of 2 programmed microcontrollers, AVR ATmega32
-they communicate with each other using UART Protocol
+they communicate with each other using UART Interface
 and control different devices such as the external EEPROM memory 24C16 using Two Wire Interface Protocol 
 LCD, DC Motor and keypad using DIO peripheral of the microcontroller
 /*=============================================================================================================*/
